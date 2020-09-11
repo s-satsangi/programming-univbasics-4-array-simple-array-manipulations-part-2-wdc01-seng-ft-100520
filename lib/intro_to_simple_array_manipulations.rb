@@ -13,8 +13,8 @@ def using_uniq array
 end
 
 
-def using_flatten
-  array.flatten.to_s
+def using_flatten array
+  array.flatten
 end
 
 
